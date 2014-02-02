@@ -1,0 +1,8 @@
+C:\Users\Thiago\Desktop\DraggableControls\bin\Debug\DraggableControls.exe
+C:\Users\Thiago\Desktop\DraggableControls\bin\Debug\DraggableControls.pdb
+C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.MainForm.resources
+C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.Properties.Resources.resources
+C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.csproj.GenerateResource.Cache
+C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.exe
+C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.pdb
