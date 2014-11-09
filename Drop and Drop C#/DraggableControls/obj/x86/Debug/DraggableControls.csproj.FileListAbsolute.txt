@@ -6,3 +6,5 @@ C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.Proper
 C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.csproj.GenerateResource.Cache
 C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.exe
 C:\Users\Thiago\Desktop\DraggableControls\obj\x86\Debug\DraggableControls.pdb
+C:\Users\Thiago\Documents\GitHub\DropAndDragC\Drop and Drop C#\DraggableControls\obj\x86\Debug\DraggableControls.exe
+C:\Users\Thiago\Documents\GitHub\DropAndDragC\Drop and Drop C#\DraggableControls\obj\x86\Debug\DraggableControls.pdb
